@@ -71,7 +71,7 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 Feel free to reach out:
 
-Telegram: @MGado96
+**Telegram**(https://t.me/MGado96)
 
 Work in progress 🚧 More features and improvements coming soon! ✨
 
