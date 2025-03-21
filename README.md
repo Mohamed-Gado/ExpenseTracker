@@ -3,21 +3,19 @@ Expense App
 A sleek and modern expense tracking app built with Jetpack Compose, inspired by the Mohni Expense App Figma Design.
 
  🗂 Screenshots
+ 
+<img src="https://github.com/user-attachments/assets/40e79f32-0b9c-4682-b80a-fdf48778c272" width="300" />
 
+<img src="https://github.com/user-attachments/assets/c617293d-90fc-47fb-b0e3-ecc3b7d9875c" width="300" />
 
-![Screenshot_2025-03-21-09-39-31-86_3c77cdf63c2018aef0dec291cdd861da](https://github.com/user-attachments/assets/40e79f32-0b9c-4682-b80a-fdf48778c272)
+<img src="https://github.com/user-attachments/assets/3e19df60-22b5-4cf5-b25c-a1af8f411180" width="300" />
 
-![Screenshot_2025-03-21-09-45-57-29_3c77cdf63c2018aef0dec291cdd861da](https://github.com/user-attachments/assets/c617293d-90fc-47fb-b0e3-ecc3b7d9875c)
+<img src="https://github.com/user-attachments/assets/2d6c0851-833c-420b-b68b-b2d0ec623a31" width="300" />
 
-![Screenshot_2025-03-21-09-46-09-52_3c77cdf63c2018aef0dec291cdd861da](https://github.com/user-attachments/assets/3e19df60-22b5-4cf5-b25c-a1af8f411180)
+<img src="https://github.com/user-attachments/assets/66686fc3-4d5f-4471-94cb-0b0b26bf2c80" width="300" />
 
-![Screenshot_2025-03-21-09-46-15-97_3c77cdf63c2018aef0dec291cdd861da](https://github.com/user-attachments/assets/f8b1844f-846d-41c0-8c11-afa8882c39e7)
+<img src="https://github.com/user-attachments/assets/737d00b4-d354-46cb-bef7-874a76e6f816" width="300" />
 
-![Screenshot_2025-03-21-09-46-23-84_3c77cdf63c2018aef0dec291cdd861da](https://github.com/user-attachments/assets/2d6c0851-833c-420b-b68b-b2d0ec623a31)
-
- ![Screenshot_2025-03-21-09-46-38-10_3c77cdf63c2018aef0dec291cdd861da](https://github.com/user-attachments/assets/66686fc3-4d5f-4471-94cb-0b0b26bf2c80)
-
-![Screenshot_2025-03-21-09-46-56-32_3c77cdf63c2018aef0dec291cdd861da](https://github.com/user-attachments/assets/737d00b4-d354-46cb-bef7-874a76e6f816)
 
 📱 Features
 
