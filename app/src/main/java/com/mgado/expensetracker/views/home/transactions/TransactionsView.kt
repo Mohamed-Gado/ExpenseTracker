@@ -87,7 +87,9 @@ fun TransactionsView(modifier: Modifier = Modifier, navController: NavHostContro
                     expanded = expandedCategory,
                     placeholder = "Category",
                     selectedItem = selectedCategory,
-                    options = dummyCategories.map { it.title })
+                    options = dummyCategories.map { it.title }){
+                    selectedPage.value = 0
+                }
                 CustomDropdownMenu(
                     modifier = Modifier.width(70.dp),
                     expanded = expandedSort,

@@ -1,4 +1,4 @@
-
+Expense App
 
 A sleek and modern expense tracking app built with Jetpack Compose, inspired by the Mohni Expense App Figma Design.
 
